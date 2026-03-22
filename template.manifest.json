@@ -1,0 +1,9 @@
+﻿{
+  ""template_name"": ""xps-source-adapter-template"",
+  ""purpose"": ""Reusable adapter starter for approved sources"",
+  ""forbidden_behavior"": [
+    ""direct HubSpot writes"",
+    ""fake lead injection"",
+    ""undocumented production writes""
+  ]
+}
